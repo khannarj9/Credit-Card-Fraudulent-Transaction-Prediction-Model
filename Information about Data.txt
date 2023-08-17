@@ -1,0 +1,2 @@
+Since the data is more then the data limit which the Git Repository can handle.
+Here is the link to the dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
